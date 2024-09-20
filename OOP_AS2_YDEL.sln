@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_AS2_YDEL", "OOP_AS2_YDEL\OOP_AS2_YDEL.csproj", "{597B4410-A28D-4165-B797-1981BC18E17B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597B4410-A28D-4165-B797-1981BC18E17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597B4410-A28D-4165-B797-1981BC18E17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597B4410-A28D-4165-B797-1981BC18E17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597B4410-A28D-4165-B797-1981BC18E17B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D80969E-6714-4AEE-B886-C16D79E36FB8}
+	EndGlobalSection
+EndGlobal
